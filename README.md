@@ -8,7 +8,7 @@
   <a href='https://twitter.com/SureshChidural3' target="_blank">
    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
- <a href='linkedin.com/in/suresh-chidurala' target="_blank">
+ <a href='https://www.linkedin.com/in/suresh-chidurala' target="_blank">
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
