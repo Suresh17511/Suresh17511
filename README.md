@@ -1,6 +1,8 @@
 ![Web Developer](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)
 
+# SURESH CHIDURALA
 
+ I'm a front-end web developer and developing my skills in Full Stack. I can say self a quick learner , currently work on MERN
 
 <p>
   <a href='https://twitter.com/SureshChidural3' target="_blank">
